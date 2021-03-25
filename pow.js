@@ -1,7 +1,3 @@
-const powerOf = (x, y) => {
-    // return Math.pow(x, y);
-    return x ** y;
-
-};
+const powerOf = (x, y) => x ** y;
 
 module.exports = powerOf;
