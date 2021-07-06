@@ -1,27 +1,12 @@
-# Red-Green-Refactor Build
+# Code Practice 
 
-In this build you will use the Red, Green, Refactor approach to create a function
-that takes a base and exponent and raises the base to the exponent power:
-base<sup>exponent</sup>.
+A place to keep, play, and practice with general code challenges. Including tests with functions from actual interviews, review info, and more. Will continue to grow!  
 
-## Red
+## Review File
 
-Write failing test and commit (use a meaningful commit message).
+Here there are multiple files that go over the basics of arrays, objects, strings, and a few simple examples of each. Just live serve the index.html file, and open the console in the browser to see the console logs from the named script file. Remember to change the script file in the index file to serve the various files here. 
 
-## Green
+## Functions File
 
-Get the test to pass and commit (use a meaningful commit message).
+Holds verious functions and their tests. These are actual interview questions, some are from Leet code, or codewars, or other various sources. Sources will be noted at the top of each function file. 
 
-## Refactor
-
-Refactor your code if you can and commit (use a meaningful commit message).
-
-## First Pass: Use Math.pow
-
-Use [Math.pow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)
-in your implementation
-
-## Second Pass: Use the exponentiation operator
-
-Use the [exponentiation operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation)
-in your implementation.
