@@ -62,10 +62,10 @@
             "after": false
           },
           "for": {
-            "after": false
+            "after": true
           },
           "if": {
-            "after": false
+            "after": true
           },
           "switch": {
             "after": false
