@@ -3,13 +3,10 @@
 function splitStrings(str) {
     const ans = [];
     for (let i = 0; i < str.length; i += 2) {
-        const a = str[i];
         if (str[i + 1]) {
-            const b = str[i + 1];
-            ans.push(a + b);
-        } else { const b = '_'; ans.push(a + b); }
+            ans.push(str[i] + str[i + 1]);
+        } else { ans.push(str[i] + '_'); }
     }
-
     return ans;
 }
 
